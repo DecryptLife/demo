@@ -1,24 +1,24 @@
 {
   "registered-users": [
-    { "id": 1, "username": "Macintosh" , address:{
+    { "id": 1, "username": "Macintosh" , "address":{
     "street":"Monkey St", "city":"Houston","state":"Texas"}, "zip-code":"77453", "mobile_number":"526-345-1023", "email":"macintosh22@gmail.com"} 
-    { "id": 2, "username": "Steve" , address:{
+    { "id": 2, "username": "Steve" , "address":{
     "street":"Bissonnet St", "city":"Houston","state":"Texas"}, "zip-code":"77005", "mobile_number":"402-345-1023", "email":"steve22@gmail.com"}
-    { "id": 3, "username": "Mark" , address:{
+    { "id": 3, "username": "Mark" , "address":{
     "street":"Roslyn", "city":"Austin","state":"Texas"}, "zip-code":"77124", "mobile_number":"526-100-1023", "email":"mark23@gmail.com"} 
-    { "id": 4, "username": "Harry" , address:{
+    { "id": 4, "username": "Harry" , "address":{
     "street":"kungfu", "city":"Dallas","state":"Texas"}, "zip-code":"54111", "mobile_number":"407-345-1023", "email":"harry24@gmail.com"} 
-    { "id": 5, "username": "Philip" , address:{
+    { "id": 5, "username": "Philip" , "address":{
     "street":"Shoalin", "city":"Houston","state":"Texas"}, "zip-code":"65842", "mobile_number":"526-345-2596", "email":"philip28@gmail.com"} 
-    { "id": 6, "username": "Thomas" , address:{
+    { "id": 6, "username": "Thomas" , "address":{
     "street":"Sugarland", "city":"Dallas","state":"Texas"}, "zip-code":"10201", "mobile_number":"102-345-1023", "email":"thomas22@gmail.com"} 
-    { "id": 7, "username": "Edward" , address:{
+    { "id": 7, "username": "Edward" , "address":{
     "street":"Riverstone", "city":"Dallas","state":"Texas"}, "zip-code":"39605", "mobile_number":"526-258-1023", "email":"edward25@gmail.com"} 
-    { "id": 8, "username": "Martin" , address:{
+    { "id": 8, "username": "Martin" , "address":{
     "street":"Urbana", "city":"Houston","state":"Texas"}, "zip-code":"56897", "mobile_number":"856-000-1023", "email":"martin28@gmail.com"} 
-    { "id": 9, "username": "Jones" , address:{
+    { "id": 9, "username": "Jones" , "address":{
     "street":"Riverside", "city":"Austin","state":"Texas"}, "zip-code":"22235", "mobile_number":"126-458-1023", "email":"jones27@gmail.com"} 
-    { "id": 10, "username": "Duncan" , address:{
+    { "id": 10, "username": "Duncan" , "address":{
     "street":"Beachfront", "city":"Austin","state":"Texas"}, "zip-code":"10256", "mobile_number":"854-345-2000", "email":"duncan29@gmail.com"} 
   ]
 }
