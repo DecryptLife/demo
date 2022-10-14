@@ -1,7 +1,8 @@
 {
   "registered-users": [
     { "id": 1, "username": "Macintosh" , "zip-code":"77453", "mobile_number":"526-345-1023", "email":"macintosh22@gmail.com" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 2, "username": "Steve" ,  "zip-code":"77005", "mobile_number":"402-345-1023", "email":"steve22@gmail.com" },
+    { "id": 3, "username": "Mark" ,  "zip-code":"77124", "mobile_number":"526-100-1023", "email":"mark23@gmail.com"},
+    { "id": 4, "username": "Harry" ,  "zip-code":"54111", "mobile_number":"407-345-1023", "email":"harry24@gmail.com"}
   ]
 }
