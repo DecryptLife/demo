@@ -1,15 +1,15 @@
 {
-  "registered-users": [
-    { "id": 1, "username": "Macintosh" , "zip-code":"77453", "mobile_number":"526-345-1023", "email":"macintosh22@gmail.com", "address":{
+  "registered-users": {
+    "Macintosh": { "id": 1, "username": "Macintosh" , "zip-code":"77453", "mobile_number":"526-345-1023", "email":"macintosh22@gmail.com", "address":{
     "street":"Monkey St", "city":"Houston","state":"Texas"} },
-    {  "id": 2, "username": "Steve" , "zip-code":"70185", "mobile_number":"526-100-1023", "email":"steve22@gmail.com" },
-    { "id": 3, "username": "Harry" , "zip-code":"25684", "mobile_number":"316-345-1023", "email":"harry23@gmail.com" },
-    { "id": 4, "username": "Philip" , "zip-code":"18579", "mobile_number":"108-345-1023", "email":"philip33@gmail.com" },
-    { "id": 5, "username": "Thomas" , "zip-code":"30129", "mobile_number":"209-212-1023", "email":"thoma23@gmail.com" },
-    { "id": 6, "username": "Edward" , "zip-code":"12456", "mobile_number":"856-445-1023", "email":"edward34@gmail.com" },
-    { "id": 7, "username": "Mark" , "zip-code":"56012", "mobile_number":"205-345-9025", "email":"mark23@gmail.com" },
-    { "id": 8, "username": "Martin" , "zip-code":"23587", "mobile_number":"182-500-1023", "email":"martin35@gmail.com" },
-    { "id": 9, "username": "Jones" , "zip-code":"44587", "mobile_number":"851-329-2546", "email":"jones27@gmail.com" },
-    { "id": 10, "username": "Duncan" , "zip-code":"96123", "mobile_number":"642-589-3245", "email":"duncan28@gmail.com" }
-  ]
+    "Steve": {  "id": 2, "username": "Steve" , "zip-code":"70185", "mobile_number":"526-100-1023", "email":"steve22@gmail.com" },
+    "Harry": { "id": 3, "username": "Harry" , "zip-code":"25684", "mobile_number":"316-345-1023", "email":"harry23@gmail.com" },
+    "Philip": { "id": 4, "username": "Philip" , "zip-code":"18579", "mobile_number":"108-345-1023", "email":"philip33@gmail.com" },
+    "Thomas": { "id": 5, "username": "Thomas" , "zip-code":"30129", "mobile_number":"209-212-1023", "email":"thoma23@gmail.com" },
+    "Edward": { "id": 6, "username": "Edward" , "zip-code":"12456", "mobile_number":"856-445-1023", "email":"edward34@gmail.com" },
+    "Mark": { "id": 7, "username": "Mark" , "zip-code":"56012", "mobile_number":"205-345-9025", "email":"mark23@gmail.com" },
+    "Martin": { "id": 8, "username": "Martin" , "zip-code":"23587", "mobile_number":"182-500-1023", "email":"martin35@gmail.com" },
+    "Jones": { "id": 9, "username": "Jones" , "zip-code":"44587", "mobile_number":"851-329-2546", "email":"jones27@gmail.com" },
+    "Duncan": { "id": 10, "username": "Duncan" , "zip-code":"96123", "mobile_number":"642-589-3245", "email":"duncan28@gmail.com" }
+  }
 }
