@@ -1,6 +1,7 @@
 {
   "registered-users": [
-    { "id": 1, "username": "Macintosh" , "zip-code":"77453", "mobile_number":"526-345-1023", "email":"macintosh22@gmail.com" },
+    { "id": 1, "username": "Macintosh" , "zip-code":"77453", "mobile_number":"526-345-1023", "email":"macintosh22@gmail.com", "address":{
+    "street":"Monkey St", "city":"Houston","state":"Texas"} },
     {  "id": 2, "username": "Steve" , "zip-code":"70185", "mobile_number":"526-100-1023", "email":"steve22@gmail.com" },
     { "id": 3, "username": "Harry" , "zip-code":"25684", "mobile_number":"316-345-1023", "email":"harry23@gmail.com" },
     { "id": 4, "username": "Philip" , "zip-code":"18579", "mobile_number":"108-345-1023", "email":"philip33@gmail.com" },
