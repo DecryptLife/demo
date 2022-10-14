@@ -1,24 +1,24 @@
 {
   "registered-users": {
-    "Macintosh": { "id": 1, "username": "Macintosh" , "zip-code":"77453", "mobile_number":"526-345-1023", "email":"macintosh22@gmail.com", "address":{
+    "Macintosh": { "id": 1, "username": "Macintosh" , "fun_status":"Hakuna Matata", "zip-code":"77453", "mobile_number":"526-345-1023", "email":"macintosh22@gmail.com", "address":{
     "street":"Monkey St", "city":"Houston","state":"Texas"} },
-    "Steve": {  "id": 2, "username": "Steve" , "zip-code":"70185", "mobile_number":"526-100-1023", "email":"steve22@gmail.com", "address":{
+    "Steve": {  "id": 2, "username": "Steve" , "fun_status":"You only live once", "zip-code":"70185", "mobile_number":"526-100-1023", "email":"steve22@gmail.com", "address":{
     "street":"Bissonnet St", "city":"San Antonio","state":"Texas"}  },
-    "Harry": { "id": 3, "username": "Harry" , "zip-code":"25684", "mobile_number":"316-345-1023", "email":"harry23@gmail.com", "address":{
+    "Harry": { "id": 3, "username": "Harry" , "fun_status":"Now or never", "zip-code":"25684", "mobile_number":"316-345-1023", "email":"harry23@gmail.com", "address":{
     "street":"Roslyn", "city":"Austin","state":"Texas"}  },
-    "Philip": { "id": 4, "username": "Philip" , "zip-code":"18579", "mobile_number":"108-345-1023", "email":"philip33@gmail.com", "address":{
+    "Philip": { "id": 4, "username": "Philip" , "fun_status":"Egg or chicken? what come first", "zip-code":"18579", "mobile_number":"108-345-1023", "email":"philip33@gmail.com", "address":{
     "street":"Sugarland", "city":"Houston","state":"Texas"}  },
-    "Thomas": { "id": 5, "username": "Thomas" , "zip-code":"30129", "mobile_number":"209-212-1023", "email":"thoma23@gmail.com", "address":{
+    "Thomas": { "id": 5, "username": "Thomas" , "fun_status":"Univerisities are meant for fun","zip-code":"30129", "mobile_number":"209-212-1023", "email":"thoma23@gmail.com", "address":{
     "street":"Riverside", "city":"Dallas","state":"Texas"}  },
-    "Edward": { "id": 6, "username": "Edward" , "zip-code":"12456", "mobile_number":"856-445-1023", "email":"edward34@gmail.com", "address":{
+    "Edward": { "id": 6, "username": "Edward" , "fun_status":"Now, always and forever","zip-code":"12456", "mobile_number":"856-445-1023", "email":"edward34@gmail.com", "address":{
     "street":"Alabama", "city":"Houston","state":"Texas"}  },
-    "Mark": { "id": 7, "username": "Mark" , "zip-code":"56012", "mobile_number":"205-345-9025", "email":"mark23@gmail.com", "address":{
+    "Mark": { "id": 7, "username": "Mark" , "fun_status":"Loving myself","zip-code":"56012", "mobile_number":"205-345-9025", "email":"mark23@gmail.com", "address":{
     "street":"Kungfu", "city":"Dallas","state":"Texas"}  },
-    "Martin": { "id": 8, "username": "Martin" , "zip-code":"23587", "mobile_number":"182-500-1023", "email":"martin35@gmail.com", "address":{
+    "Martin": { "id": 8, "username": "Martin" , "fun_status":"Life is just funny", "zip-code":"23587", "mobile_number":"182-500-1023", "email":"martin35@gmail.com", "address":{
     "street":"Shoalin", "city":"Galveston","state":"Texas"}  },
-    "Jones": { "id": 9, "username": "Jones" , "zip-code":"44587", "mobile_number":"851-329-2546", "email":"jones27@gmail.com", "address":{
+    "Jones": { "id": 9, "username": "Jones" ,"fun_status":"Friends is the best TV show", "zip-code":"44587", "mobile_number":"851-329-2546", "email":"jones27@gmail.com", "address":{
     "street":"Frazer", "city":"San Antonio","state":"Texas"}  },
-    "Duncan": { "id": 10, "username": "Duncan" , "zip-code":"96123", "mobile_number":"642-589-3245", "email":"duncan28@gmail.com", "address":{
+    "Duncan": { "id": 10, "username": "Duncan" , "fun_status":"Ice-creams are the best", "zip-code":"96123", "mobile_number":"642-589-3245", "email":"duncan28@gmail.com", "address":{
     "street":"Richmond", "city":"Austin","state":"Texas"}  }
   }
 }
