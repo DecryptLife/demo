@@ -5,6 +5,10 @@
     { "id": 3, "username": "Harry" , "zip-code":"25684", "mobile_number":"316-345-1023", "email":"harry23@gmail.com" },
     { "id": 4, "username": "Philip" , "zip-code":"18579", "mobile_number":"108-345-1023", "email":"philip33@gmail.com" },
     { "id": 5, "username": "Thomas" , "zip-code":"30129", "mobile_number":"209-212-1023", "email":"thoma23@gmail.com" },
-    { "id": 6, "username": "Edward" , "zip-code":"12456", "mobile_number":"856-445-1023", "email":"edward34@gmail.com" }
+    { "id": 6, "username": "Edward" , "zip-code":"12456", "mobile_number":"856-445-1023", "email":"edward34@gmail.com" },
+    { "id": 7, "username": "Mark" , "zip-code":"56012", "mobile_number":"205-345-9025", "email":"mark23@gmail.com" },
+    { "id": 8, "username": "Martin" , "zip-code":"23587", "mobile_number":"182-500-1023", "email":"martin35@gmail.com" },
+    { "id": 9, "username": "Jones" , "zip-code":"44587", "mobile_number":"851-329-2546", "email":"jones27@gmail.com" },
+    { "id": 10, "username": "Duncan" , "zip-code":"96123", "mobile_number":"642-589-3245", "email":"duncan28@gmail.com" }
   ]
 }
